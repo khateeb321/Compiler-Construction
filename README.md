@@ -33,3 +33,18 @@ float c = 5.667;
 float d;```
 
 ![Screenshot of Symbol Table Code](https://github.com/khateeb321/Compiler-Construction/blob/master/images/st.PNG)
+<<<<<<< HEAD
+
+
+
+## 3. Error Identification
+
+### Sample Input
+```int a = 5;
+float b = 5.5;
+//int temp;
+/int flag;```
+
+![Screenshot of Error](https://github.com/khateeb321/Compiler-Construction/blob/master/images/error.PNG)
+=======
+>>>>>>> 87134f92ae0a05d786dfe4ebaf554d860139e93a

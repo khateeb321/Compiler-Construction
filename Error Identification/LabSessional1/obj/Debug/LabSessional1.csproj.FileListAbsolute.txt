@@ -1,0 +1,17 @@
+c:\users\administrator\documents\visual studio 2012\Projects\LabSessional1\LabSessional1\bin\Debug\LabSessional1.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\LabSessional1\LabSessional1\bin\Debug\LabSessional1.exe
+c:\users\administrator\documents\visual studio 2012\Projects\LabSessional1\LabSessional1\bin\Debug\LabSessional1.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\LabSessional1\LabSessional1\obj\Debug\LabSessional1.Form1.resources
+c:\users\administrator\documents\visual studio 2012\Projects\LabSessional1\LabSessional1\obj\Debug\LabSessional1.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2012\Projects\LabSessional1\LabSessional1\obj\Debug\LabSessional1.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2012\Projects\LabSessional1\LabSessional1\obj\Debug\LabSessional1.exe
+c:\users\administrator\documents\visual studio 2012\Projects\LabSessional1\LabSessional1\obj\Debug\LabSessional1.pdb
+C:\Users\khate\Desktop\USB Data\AhmedKhateeb (SP12-BCS-028)\LabSessional1\LabSessional1\bin\Debug\LabSessional1.exe.config
+C:\Users\khate\Desktop\USB Data\AhmedKhateeb (SP12-BCS-028)\LabSessional1\LabSessional1\obj\Debug\LabSessional1.exe
+C:\Users\khate\Desktop\USB Data\AhmedKhateeb (SP12-BCS-028)\LabSessional1\LabSessional1\obj\Debug\LabSessional1.pdb
+C:\Users\khate\Desktop\USB Data\AhmedKhateeb (SP12-BCS-028)\LabSessional1\LabSessional1\bin\Debug\LabSessional1.exe
+C:\Users\khate\Desktop\USB Data\AhmedKhateeb (SP12-BCS-028)\LabSessional1\LabSessional1\bin\Debug\LabSessional1.pdb
+C:\Users\khate\Desktop\USB Data\AhmedKhateeb (SP12-BCS-028)\LabSessional1\LabSessional1\obj\Debug\LabSessional1.csprojResolveAssemblyReference.cache
+C:\Users\khate\Desktop\USB Data\AhmedKhateeb (SP12-BCS-028)\LabSessional1\LabSessional1\obj\Debug\LabSessional1.Form1.resources
+C:\Users\khate\Desktop\USB Data\AhmedKhateeb (SP12-BCS-028)\LabSessional1\LabSessional1\obj\Debug\LabSessional1.Properties.Resources.resources
+C:\Users\khate\Desktop\USB Data\AhmedKhateeb (SP12-BCS-028)\LabSessional1\LabSessional1\obj\Debug\LabSessional1.csproj.GenerateResource.Cache
