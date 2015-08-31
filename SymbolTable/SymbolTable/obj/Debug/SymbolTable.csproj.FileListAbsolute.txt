@@ -1,0 +1,21 @@
+c:\users\administrator\documents\visual studio 2012\Projects\SymbolTable\SymbolTable\bin\Debug\SymbolTable.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\SymbolTable\SymbolTable\bin\Debug\SymbolTable.exe
+c:\users\administrator\documents\visual studio 2012\Projects\SymbolTable\SymbolTable\bin\Debug\SymbolTable.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\SymbolTable\SymbolTable\obj\Debug\SymbolTable.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\SymbolTable\SymbolTable\obj\Debug\SymbolTable.Form1.resources
+c:\users\administrator\documents\visual studio 2012\Projects\SymbolTable\SymbolTable\obj\Debug\SymbolTable.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2012\Projects\SymbolTable\SymbolTable\obj\Debug\SymbolTable.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2012\Projects\SymbolTable\SymbolTable\obj\Debug\SymbolTable.exe
+c:\users\administrator\documents\visual studio 2012\Projects\SymbolTable\SymbolTable\obj\Debug\SymbolTable.pdb
+D:\7th Labs\Khateeb CC\SymbolTable\SymbolTable\bin\Debug\SymbolTable.exe.config
+D:\7th Labs\Khateeb CC\SymbolTable\SymbolTable\obj\Debug\SymbolTable.exe
+D:\7th Labs\Khateeb CC\SymbolTable\SymbolTable\obj\Debug\SymbolTable.pdb
+D:\7th Labs\Khateeb CC\SymbolTable\SymbolTable\bin\Debug\SymbolTable.exe
+D:\7th Labs\Khateeb CC\SymbolTable\SymbolTable\bin\Debug\SymbolTable.pdb
+D:\7th Labs\Khateeb CC\SymbolTable\SymbolTable\obj\Debug\SymbolTable.csprojResolveAssemblyReference.cache
+D:\7th Labs\Khateeb CC\SymbolTable\SymbolTable\obj\Debug\SymbolTable.Form1.resources
+D:\7th Labs\Khateeb CC\SymbolTable\SymbolTable\obj\Debug\SymbolTable.Properties.Resources.resources
+D:\7th Labs\Khateeb CC\SymbolTable\SymbolTable\obj\Debug\SymbolTable.csproj.GenerateResource.Cache
+D:\ \7th Labs\Khateeb CC\SymbolTable\SymbolTable\bin\Debug\SymbolTable.exe.config
+D:\ \7th Labs\Khateeb CC\SymbolTable\SymbolTable\obj\Debug\SymbolTable.exe
+D:\ \7th Labs\Khateeb CC\SymbolTable\SymbolTable\obj\Debug\SymbolTable.pdb
