@@ -32,5 +32,4 @@ int b = 2;
 float c = 5.667;
 float d;```
 
-![GitHub Logo](/images/st.png)
-Format: ![Alt Text](url)
+https://github.com/khateeb321/Compiler-Construction/blob/master/images/st.PNG
