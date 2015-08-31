@@ -32,4 +32,4 @@ int b = 2;
 float c = 5.667;
 float d;```
 
-https://github.com/khateeb321/Compiler-Construction/blob/master/images/st.PNG
+![Screenshot of Symbol Table Code](https://github.com/khateeb321/Compiler-Construction/blob/master/images/st.PNG)
